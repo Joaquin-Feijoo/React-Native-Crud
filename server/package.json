@@ -9,7 +9,7 @@
     "dev": "npx nodemon app.js",
     "start": "node app.js"
   },
-  "author": "Lela",
+  "author": "Feijóo",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
